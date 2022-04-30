@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 아마 이렇게 하는듯
 ---
 
