@@ -3,12 +3,14 @@ layout: post
 title: how to upload image
 ---
 
-영상 넣는법을 알아보자
+영상은 유투브 밖에 안들어가는듯([![배경이미지](배경이미지 링크)](링크))
+
+
 이미지 사이즈 조정하는법도 알아보자(마크다운 문법으로는 불가능)
 
 
 
-<img src=/image/404.jpg width="50" height="50"/>
+<img src="http://qnimate.com/wp-content/uploads/2014/03/images2.jpg" width="50" height="50"/>
 
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)
 ![이미지이름]({{ site.baseurl }}/images/step1.gif)
