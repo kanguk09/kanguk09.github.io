@@ -6,7 +6,7 @@ title: how to upload image
 영상 넣는법을 알아보자
 
 
-![이게 이미지 이름인듯](/image/step1.gif)
+![이게 이미지 이름인듯](/image/404.jpg)
 ![_config.yml]({{ site.baseurl }}/images/wp2372579.jpg)
 ![_config.yml]({{ site.baseurl }}/images/404.jpg)
  
