@@ -7,9 +7,8 @@ title: how to upload image
 이미지 사이즈 조정하는법도 알아보자
 
 
-
+[![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)
 ![이미지이름]({{ site.baseurl }}/images/step1.gif)
-![이미지이름]({{ site.baseurl }}/image/404.jpg=205x205)
 ![이미지이름]({{ site.baseurl }}/images/wp2372579.jpg)
 ![_config.yml]({{ site.baseurl }}/images/404.jpg)
  
