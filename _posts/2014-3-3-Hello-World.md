@@ -4,11 +4,12 @@ title: how to upload image
 ---
 
 영상 넣는법을 알아보자
-움짤도 추가가 안되네
+이미지 사이즈 조정하는법도 알아보자
+
 
 
 ![이미지이름]({{ site.baseurl }}/images/step1.gif)
-![이미지이름]({{ site.baseurl }}/image/404.jpg | "height=100" "width=100")
+![이미지이름]({{ site.baseurl }}/image/404.jpg=205x205)
 ![이미지이름]({{ site.baseurl }}/images/wp2372579.jpg)
 ![_config.yml]({{ site.baseurl }}/images/404.jpg)
  
