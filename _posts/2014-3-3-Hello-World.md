@@ -4,12 +4,13 @@ title: how to upload image
 ---
 
 영상 넣는법을 알아보자
-
+움짤도 추가가 안되네
 
 
 <img src="https://github.com/kanguk09/kanguk09.github.io/blob/master/images/step1.gif" width="100" height="100">
 
-![_config.yml]({{ site.baseurl }}/images/wp2372579.jpg)
+![이미지이름]({{ site.baseurl }}https://github.com/kanguk09/kanguk09.github.io/blob/master/images/step1.gif)
+![이미지이름]({{ site.baseurl }}/images/wp2372579.jpg)
 ![_config.yml]({{ site.baseurl }}/images/404.jpg)
  
 
