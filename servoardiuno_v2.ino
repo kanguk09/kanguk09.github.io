@@ -37,4 +37,6 @@ void loop() {
   Serial.println(y_cord);
   delay(1000);
   
+
+  serData = "" //제일 마지막줄에 넣어줘야함
 }
