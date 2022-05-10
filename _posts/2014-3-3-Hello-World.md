@@ -8,6 +8,9 @@ title: how to upload image
 
 이미지 사이즈 조정하는법도 알아보자(마크다운 문법으로는 불가능)
 
+[수식넣기](https://velog.io/@d2h10s/LaTex-Markdown-%EC%88%98%EC%8B%9D-%EC%9E%91%EC%84%B1%EB%B2%95/)
+$\displaystyle\sum_{i=0}^{\infin}{(y_i-t_1)^2}$
+
 
 
 <img src="http://qnimate.com/wp-content/uploads/2014/03/images2.jpg" width="50" height="50"/>
