@@ -7,18 +7,9 @@ title: 2-1학기 과학
 
 ## 01. 소화
   1. 동물 몸의 구성 단계:  세포 → 조직 → 기관 → 기관계 → 개체
-  2. 식물의 구성 단계와 비교:  세포 → 조직 → 조직계 → 기관 → 개체
-
-
-      ❗️ <font color = ffd400>식물과 동물의 구성 단계 비교
-  <font color = black>
-  3. ![동물 구성단계](/images/1.png)
-  <font color = ffd400>
-  
-      기관계들 종류와 역할 암기
-
-  
-      <font color = black>
+  2. 식물의 구성 단계와 비교:  세포 → 조직 → 조직계 → 기관 → 개체<br>❗️ <font color = ffd400>식물과 동물의 구성 단계 비교<font color = black>
+  3. ![동물 구성단계](/images/1.png)<br>
+  <font color = ffd400>기관계들 종류와 역할 암기<font color = black>
       1. 소화계 ❗️ <font color = ffd400>소화계는 💩<font color = black>
 
           (1) 소화 : 음식물 속의 크기가 큰 영양소를 크기가 작은 영양소로 분해하는 과정<br>
@@ -27,7 +18,7 @@ title: 2-1학기 과학
 
            (3) 소화 과정 소화 과정의 결과 녹말은 포도당으로, 단백질은 아미노산으로, 지방은 지방산과 모노글리세리드로 분해된다.<br>
 
-           ![소화계](/images/2.png)<br>
+            ![소화계](/images/2.png)<br>
 
            (4)입,위,소장에서 하는일<br>
 
